@@ -1,0 +1,24 @@
+:root {
+    --favColorText: #3f4a49;
+}
+
+.btn-more {
+    width: 14%;
+    background-color: #d4967d;
+    display: flex;
+    height: 60px;
+    border-radius: 3px;
+    font-size: 20px;
+    margin: 3.5% 43%;
+    color: white !important;
+    transition: 1s;
+
+    &:hover {
+        background-color: #d4967dbb;
+    }
+}
+
+.link-footer {
+    color: #d4967d !important;
+    border-bottom: 1px solid #d4967d !important;
+}
