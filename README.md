@@ -16,6 +16,6 @@
 
   master: parsa ghorbanian
 
-- How to reach me : with my [instagram](https://www.instagram.com/maryambanoo.sadeghi.dev) and [linkedin](https://www.linkedin.com/in/maryam-sadeghi-dev-5013ab361
+- How to reach me : with my [instagram](https://www.instagram.com/maryambanoo.sadeghi.dev) and [linkedin](https://www.linkedin.com/in/maryam-sadeghi-dev-5013ab361)
 
 )
