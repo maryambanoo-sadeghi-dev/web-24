@@ -6,7 +6,7 @@
 
 - [Demo Project](https://maryambanoo-sadeghi-dev.github.io/web-24/)
 
-- Developed by maryam sadeghi
+- Coded by maryam sadeghi
 
 - Created - 2025-4
 
